@@ -1,0 +1,3 @@
+[submodule "domain"]
+	path = domain
+	url = /Users/victorzagnitko/IdeaProjects/kafka-stream-example/domain
