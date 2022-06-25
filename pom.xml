@@ -10,4 +10,8 @@
     <description>kafka-stream-example</description>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>domain</module>
+    </modules>
+
 </project>
